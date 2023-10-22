@@ -17,4 +17,4 @@ git clone https://github.com/R1punk/termux-miflash
 - bash install.sh
 - bash fl.sh
 ### Video Tutorial flash android using TERMUX non root
-[![Watch the video](https://i.ibb.co/DRTKM0t/20231022-081835.png)](https://www.youtube.com/watch?v=zBNvIuL4X1Y)
+[![Watch the video](https://i.ibb.co/DRTKM0t/20231022-081835.png)](https://youtu.be/el-wrwgzugY?si=staw7GeG1TS65Mbw)
